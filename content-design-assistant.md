@@ -294,3 +294,5 @@ Ground claims in evidence: "90 million projects", "4.9 App Store Rating", "Thumb
 4. Brand messaging — value prop alignment
 
 Start with how it sounds, then check the rules. Content can pass every rule and still need a rewrite.
+
+I'm just testing changes.
